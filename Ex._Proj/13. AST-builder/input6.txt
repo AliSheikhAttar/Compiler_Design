@@ -1,0 +1,10 @@
+program midterm
+var b : int
+var c : int
+var d : int
+var a : int
+var e : int
+var f : int
+begin
+a:=b>=c?d:b&&c?e:f;
+end

@@ -1,0 +1,9 @@
+program Test
+begin
+    while a>b do
+    c:= c + 1
+    for i:=1 to 7 do
+    begin
+    a:=1 + i
+    end
+end

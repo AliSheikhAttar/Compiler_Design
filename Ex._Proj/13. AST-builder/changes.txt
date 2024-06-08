@@ -1,0 +1,3 @@
+- RELOP
+- assignment did'nt work for variable of type string
+    -

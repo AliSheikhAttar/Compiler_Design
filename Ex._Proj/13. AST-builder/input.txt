@@ -1,0 +1,21 @@
+program Test
+var
+  a : int
+  b : int
+  c : int
+  d : int
+  e : float
+  f : float
+  u : string
+begin
+    c := 2
+    b := f + c
+    u := "hiii"
+    #a := u + b
+    #if a<u then
+    if a<b then
+       c:=u+g
+    else
+       a := e*f
+    b := c*d
+end

@@ -1,0 +1,14 @@
+program checkCase
+var grade: string
+begin
+    grade:= A
+    begin
+    Case grade of
+         A : 2 * 3
+         B : WritelineHi
+         D : hi
+        F : bye
+       end
+    end
+    a := bye
+end
