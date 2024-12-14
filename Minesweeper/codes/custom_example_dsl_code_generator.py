@@ -69,7 +69,7 @@ class CustomExampleDSLCodeGenerator:
         if output_type == 'console':
             program_code = (initiate_code + placements_code
                             + f"\nfor i in range({self.width}):\n" +
-                            f"\tfor j in range({self.height}):\n" +
+                            f"\tfor j in ()range({self.height}):\n" +
                             "\t\tif bombs[i][j]:\n" +
                             "\t\t\tprint('*', end ='')\n" +
                             "\t\telif hint and hints[i][j] > 0:\n" +

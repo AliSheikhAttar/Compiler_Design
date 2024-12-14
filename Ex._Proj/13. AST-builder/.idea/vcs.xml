@@ -2,5 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ILGenerator_project/ILGenerator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../IL_Generator/ILGenerator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../IL_Generator_normal_AST/ILGenerator_normal_AST" vcs="Git" />
   </component>
 </project>
